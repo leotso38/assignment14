@@ -1,4 +1,4 @@
-# 📦 Assignment 14 Project Setup
+# 📦 Assignment 14 Setup
 
 ---
 
